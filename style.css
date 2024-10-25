@@ -1,0 +1,54 @@
+img{
+    border-radius: 50%;
+    width: 150px;
+    height: 160px;
+    float: left;
+
+}
+a{
+    text-decoration: none;
+}
+hr{
+    padding: 3px;
+    background-color: rgb(2, 103, 217);
+}
+.b-cont{
+    background-color: black;
+    text-align: center;
+    padding: 10px;
+
+}
+.b-cont a{
+    color: white;
+    text-decoration: none;
+    margin: 20px;
+
+}
+.b-cont p{
+    color: white;
+    text-decoration: none;
+    margin: 20px;
+
+}
+.form-practice{
+    text-align: center;
+}
+table{
+    width: 500px;
+    height: 200px;
+    border: 2px xolid black;
+    border-collapse: collapse;
+}
+td,th{
+    border: 2px solid black;
+    text-align: center;
+}
+form{
+    border: 3px solid black;
+    height: 550px;
+    width: 400px;
+    align-items: center;
+}
+h2{
+    color: rgb(2, 103, 217);
+}
